@@ -23,7 +23,7 @@ Este curso seguirá a mesma programação de aulas do curso [6.004](https://6004
 ### Semana 3
 
  * Terça (26/3):<br />**L4 – Procedimentos e E/S mapeada em memória** \[ PDF \] \[ [vídeo](https://youtu.be/_sMKEECYGGw) \]
- * Quinta (28/3):<br />**L5 – Circuitos combinacionais** \[ PDF \] \[ [vídeo](https://youtu.be/1pmFSDisDCs) \]
+ * Quinta (28/3):<br />**L5 – Circuitos combinacionais** \[ PDF \] \[ [vídeo](https://youtu.be/1pmFSDisDCs) \]<br />**P1 – Provinha**
  * Sexta (29/3):<br />**Lab2 – Assembly do RISC-V II**
 
 ### Semana 4
@@ -35,7 +35,7 @@ Este curso seguirá a mesma programação de aulas do curso [6.004](https://6004
 ### Semana 5
 
  * Terça (9/4):<br />**L8 – Compromissos em circuitos aritméticos** \[ PDF \] \[ [vídeo](https://youtu.be/VoIxhuhTZbc) \]
- * Quinta (11/4):<br />**L9 – Circuitos sequenciais** \[ PDF \] \[ [vídeo](https://youtu.be/7GEDzDFz0wQ) \]
+ * Quinta (11/4):<br />**L9 – Circuitos sequenciais** \[ PDF \] \[ [vídeo](https://youtu.be/7GEDzDFz0wQ) \]<br />**P2 – Provinha**
  * Sexta (12/4):<br />**Lab4 – Unidade Lógica Aritmética**
 
 ### Semana 6
@@ -47,19 +47,19 @@ Este curso seguirá a mesma programação de aulas do curso [6.004](https://6004
 ### Semana 7
 
  * Terça (23/4):<br />**L12 – Síntese de hardware**
- * Quinta (25/4):<br />**L13 – Processadores monociclo**
+ * Quinta (25/4):<br />**L13 – Processadores monociclo**<br />**P3 – Provinha**
  * Sexta (26/4):<br />**Lab5 – Lógica sequencial**
 
 ### Semana 8
 
  * Terça (30/4):<br />**L14 – Processadores multiciclo**
- * Quinta (2/5):<br />**L15 – Caches 1**
+ * Quinta (2/5):<br />**L15 – Caches 1**<br />
  * Sexta (3/5):<br />**Lab6 – Processadores monociclo e multiciclo**
 
 ### Semana 9
 
  * Terça (7/5):<br />**L16 – Caches 2**
- * Quinta (9/5):<br />**L17 – Pipeline em processadores**
+ * Quinta (9/5):<br />**L17 – Pipeline em processadores**<br />**P4 – Provinha**
  * Sexta (10/5):<br />**Continuação**
 
 ### Semana 10
@@ -71,7 +71,7 @@ Este curso seguirá a mesma programação de aulas do curso [6.004](https://6004
 ### Semana 11
 
  * Terça (21/5):<br />**L20 – E/S e memória virtual**
- * Quinta (23/5):<br />**L21 – Memória virtual 2**
+ * Quinta (23/5):<br />**L21 – Memória virtual 2**<br />**P5 – Provinha**
  * Sexta (24/5):<br />**Lab8 – Processadores com pipeline**
 
 ### Semana 12
@@ -83,7 +83,7 @@ Este curso seguirá a mesma programação de aulas do curso [6.004](https://6004
 ### Semana 13
 
  * Terça (4/6):<br />**L24 – Coerência de cache**
- * Quinta (6/6):<br />**P? – Provinha**
+ * Quinta (6/6):<br />**P6 – Provinha**
  * Sexta (7/6):<br />**Tira-dúvidas do projeto**
 
 ### Semana 14
