@@ -1,16 +1,11 @@
-- title: "About"
-  href: "/about/"
+- title: "Aulas"
+  href: "/aulas/"
 
-- title: "Blog"
-  href: "/blog/"
+- title: "Avaliação"
+  href: "/avaliacao/"
 
-- title: "CV"
-  href: "/cv/"
+- title: "Autolab"
+  href: "https://autolab.ufscar.br/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
-  subcategories:
-    - subtitle: "Item 1"
-      subhref: "/miscellany/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/miscellany/item-2/"
+- title: "Piazza"
+  href: "https://piazza.com/ufscar/fall2019/1001540"
