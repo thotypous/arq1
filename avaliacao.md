@@ -62,8 +62,10 @@ NL = (Lab1 + Lab2 + Lab3 + Lab4 + Lab5 + Lab6 + Lab7 + Lab8 + 2*Projeto) / 10
 
 ## Ponto por contribuição
 
-Poderá ser somado até 1 ponto na Nota Final como recompensa por contribuições realizadas ao material didático da disciplina. O material original está em inglês, portanto é bem-vinda qualquer ajuda para traduzi-lo, adicionando comentários no PDF (vide primeira aula da disciplina para exemplo).
+Haverá uma recompensa de até 1 ponto na Nota Final por contribuições ao material didático da disciplina. O material original está em inglês, portanto é bem-vinda qualquer ajuda para traduzi-lo, adicionando comentários ao PDF (vide primeira aula da disciplina para exemplo). A quantidade exata somada à Nota Final dependerá dos seguintes fatores:
 
-Para contribuir, solicite ao professor que dê acesso à sua conta Google para adicionar comentários nos PDFs. Somente serão contabilizadas contribuições associadas à conta Google do estudante.
+ * abrangência das contribuições da turma como um todo (abrange toda as aulas?)
+ * pontualidade (as anotações foram adicionadas antes de ocorrer a aula correspondente?)
+ * parcela contribuída por cada estudante (contribuiu com a mesma quantidade de anotações que os outros estudantes?)
 
-A quantidade exata somada à Nota Final dependerá da abrangência das contribuições da turma como um todo (abrange toda as aulas?) e também da parcela contribuída por cada estudante (todos os estudantes contribuíram igualmente?).
+Para contribuir, solicite ao professor que dê à sua conta Google permissão para adicionar comentários nos PDFs. Somente serão contabilizadas contribuições associadas à conta Google do estudante.
