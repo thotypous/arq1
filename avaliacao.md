@@ -23,7 +23,7 @@ Na data limite de entrega de cada laboratório (ou na sexta-feira seguinte a ess
 
  * diferentes estudantes pertencentes a um mesmo grupo podem ser sorteados para explicar o mesmo laboratório.
 
-Nunca conte com a sorte. Esse procedimento torna imprevisível quais estudantes serão chamados, forçando todos a se preparar para explicar a resolução.
+Nunca conte com a sorte. Esse procedimento torna imprevisível quais estudantes serão chamados. Prepare-se sempre para explicar a resolução.
 
 Caso o estudante sorteado esteja ausente, sua nota na atividade será zerada. Caso o desempenho do estudante na explicação ou resposta a perguntas do docente seja considerado insatisfatório, a nota na atividade também será zerada. Em caso de desempenho intermediário, a nota na atividade será reduzida com relação à nota atribuída pela correção automática.
 
