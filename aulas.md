@@ -6,7 +6,7 @@ permalink: /aulas/
 
 # Leituras adicionais
 
-A página da disciplina [6.004 do MIT](https://6004.mit.edu/web/spring19/resources), no qual esta disciplina é baseada, lista materiais adicionais sugeridos para leitura.
+A página da disciplina [6.004 do MIT](https://6004.mit.edu/web/spring19/resources), na qual esta disciplina é baseada, lista materiais adicionais sugeridos para leitura.
 
 # Agenda
 
