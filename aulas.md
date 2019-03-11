@@ -13,31 +13,31 @@ A página da disciplina [6.004 do MIT](https://6004.mit.edu/web/spring19/resourc
 ## Semana 1
 
  * <del>Terça (12/3):<br />**Calourada**</del>
- * Quinta (14/3):<br />**L1 – Introdução** \[ PDF \] \[ [vídeo](https://youtu.be/n-YWa8hTdH8) \]
+ * Quinta (14/3):<br />**L1 – Introdução** \[ [PDF](https://drive.google.com/open?id=1sSwi1ZEJJVeLCB1lZey8QGMt5bn5-0WU) \] \[ [vídeo](https://youtu.be/n-YWa8hTdH8) \]
  * Sexta (15/3):<br />**Apresentação do ambiente**
 
 ## Semana 2
 
- * Terça (19/3):<br />**L2 – Notação binária e Assembly do RISC-V** \[ PDF \] \[ [vídeo](https://youtu.be/41RyDXIoq2w) \]
- * Quinta (21/3):<br />**L3 – Compilação, procedimentos e pilha** \[ PDF \] \[ [vídeo](https://youtu.be/GWSrieOIXls) \]
+ * Terça (19/3):<br />**L2 – Notação binária e Assembly do RISC-V** \[ [PDF](https://drive.google.com/open?id=1c7nWfalNy4y7HhvWWIDGNi2qn5yhefsj) \] \[ [vídeo](https://youtu.be/41RyDXIoq2w) \]
+ * Quinta (21/3):<br />**L3 – Compilação, procedimentos e pilha** \[ [PDF](https://drive.google.com/open?id=1uP-WjCjEyi6lXw2ktidouc69XwaVTpkl) \] \[ [vídeo](https://youtu.be/GWSrieOIXls) \]
  * Sexta (22/3):<br />**Lab1 – Assembly do RISC-V I**
 
 ## Semana 3
 
- * Terça (26/3):<br />**L4 – Procedimentos e E/S mapeada em memória** \[ PDF \] \[ [vídeo](https://youtu.be/_sMKEECYGGw) \]
- * Quinta (28/3):<br />**L5 – Circuitos combinacionais** \[ PDF \] \[ [vídeo](https://youtu.be/1pmFSDisDCs) \]<br />**P1 – Provinha**
+ * Terça (26/3):<br />**L4 – Procedimentos e E/S mapeada em memória** \[ [PDF](https://drive.google.com/open?id=1-KBGV2GG3kKCH74DurHfJpmDCnifWNPj) \] \[ [vídeo](https://youtu.be/_sMKEECYGGw) \]
+ * Quinta (28/3):<br />**L5 – Circuitos combinacionais** \[ [PDF](https://drive.google.com/open?id=1d_gRoWd3wRIukT57fWOFK9siSc61rp3Y) \] \[ [vídeo](https://youtu.be/1pmFSDisDCs) \]<br />**P1 – Provinha**
  * Sexta (29/3):<br />**Lab2 – Assembly do RISC-V II**
 
 ## Semana 4
 
- * Terça (2/4):<br />**L6 – Barrel shifter, otimizações booleanas e síntese lógica** \[ PDF \] \[ [vídeo](https://youtu.be/46pgsnDxAiQ) \]
- * Quinta (4/4):<br />**L7 – Circuitos combinacionais complexos** \[ PDF \] \[ [vídeo](https://youtu.be/PLws6kNORfk) \]
+ * Terça (2/4):<br />**L6 – Barrel shifter, otimizações booleanas e síntese lógica** \[ [PDF](https://drive.google.com/open?id=1qdQ21i_mzwJdWitIDyK63e4b51TThjfK) \] \[ [vídeo](https://youtu.be/46pgsnDxAiQ) \]
+ * Quinta (4/4):<br />**L7 – Circuitos combinacionais complexos** \[ [PDF](https://drive.google.com/open?id=1-lyUZmZdS096hTYoMYoddV9AvUCbvaUJ) \] \[ [vídeo](https://youtu.be/PLws6kNORfk) \]
  * Sexta (5/4):<br />**Lab3 – Lógica combinacional**
 
 ## Semana 5
 
- * Terça (9/4):<br />**L8 – Compromissos em circuitos aritméticos** \[ PDF \] \[ [vídeo](https://youtu.be/VoIxhuhTZbc) \]
- * Quinta (11/4):<br />**L9 – Circuitos sequenciais** \[ PDF \] \[ [vídeo](https://youtu.be/7GEDzDFz0wQ) \]<br />**P2 – Provinha**
+ * Terça (9/4):<br />**L8 – Compromissos em circuitos aritméticos** \[ [PDF](https://drive.google.com/open?id=1yJXTYcIeDmlJEVKnWS_NGe9lbPhZRy-_) \] \[ [vídeo](https://youtu.be/VoIxhuhTZbc) \]
+ * Quinta (11/4):<br />**L9 – Circuitos sequenciais** \[ [PDF](https://drive.google.com/open?id=1jZ9NTgRQSeWPsIgxxBmGRUSyqAJwpGAw) \] \[ [vídeo](https://youtu.be/7GEDzDFz0wQ) \]<br />**P2 – Provinha**
  * Sexta (12/4):<br />**Lab4 – Unidade Lógica Aritmética**
 
 ## Semana 6
