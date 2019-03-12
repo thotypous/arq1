@@ -42,7 +42,7 @@ A página da disciplina [6.004 do MIT](https://6004.mit.edu/web/spring19/resourc
 
 ## Semana 6
 
- * Terça (16/4):<br />**L10 – Circuitos sequenciais em BSV** \[ [PDF](https://drive.google.com/open?id=1XGor1prrraFj3NH6yC5giPvB4N5ZMMwB) \]
+ * Terça (16/4):<br />**L10 – Circuitos sequenciais em BSV** \[ [PDF](https://drive.google.com/open?id=1XGor1prrraFj3NH6yC5giPvB4N5ZMMwB) \] \[ [video](https://youtu.be/unkytFP0lV4) \]
  * Quinta (18/4):<br />**L11 – Interfaces concorrentes e matriz de conflitos**
  * <del>Sexta (19/4):<br />**Sexta-feira Santa**</del>
 
