@@ -10,6 +10,8 @@ A página da disciplina [6.004 do MIT](https://6004.mit.edu/web/spring19/resourc
 
 # Agenda
 
+Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
+
 ## Semana 1
 
  * <del>Terça (12/3):<br />**Calourada**</del>
