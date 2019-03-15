@@ -44,13 +44,13 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ## Semana 6
 
- * Terça (16/4):<br />**L10 – Circuitos sequenciais em BSV** \[ [PDF](https://drive.google.com/open?id=1XGor1prrraFj3NH6yC5giPvB4N5ZMMwB) \] \[ [vídeo](https://youtu.be/unkytFP0lV4) \]
- * Quinta (18/4):<br />**L11 – Interfaces concorrentes e matriz de conflitos**
+ * Terça (16/4):<br />**L10 – Circuitos sequenciais: módulos com "guardas" na interface** \[ [PDF](https://drive.google.com/open?id=1XGor1prrraFj3NH6yC5giPvB4N5ZMMwB) \] \[ [vídeo](https://youtu.be/unkytFP0lV4) \]
+ * Quinta (18/4):<br />**L11 – Síntese de hardware** \[ [PDF](https://drive.google.com/open?id=1Bk5NWqCmnYwUWbsqSN6RonZas2jQbVvT) \] \[ [vídeo](https://youtu.be/fxo8zUS6SxE) \]
  * <del>Sexta (19/4):<br />**Sexta-feira Santa**</del>
 
 ## Semana 7
 
- * Terça (23/4):<br />**L12 – Síntese de hardware**
+ * Terça (23/4):<br />**L12 – Interfaces concorrentes e matriz de conflitos**
  * Quinta (25/4):<br />**L13 – Processadores monociclo**<br />**P3 – Provinha**
  * Sexta (26/4):<br />**Lab5 – Lógica sequencial**
 
