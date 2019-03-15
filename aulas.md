@@ -16,7 +16,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
  * <del>Terça (12/3):<br />**Calourada**</del>
  * Quinta (14/3):<br />**L1 – Introdução** \[ [PDF](https://drive.google.com/open?id=1sSwi1ZEJJVeLCB1lZey8QGMt5bn5-0WU) \] \[ [vídeo](https://youtu.be/n-YWa8hTdH8) \]
- * Sexta (15/3):<br />**Apresentação do ambiente**
+ * Sexta (15/3):<br />**Apresentação do ambiente** \[ [VM](/vm/) \]
 
 ## Semana 2
 
