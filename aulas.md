@@ -50,7 +50,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ## Semana 7
 
- * Terça (23/4):<br />**L12 – Interfaces concorrentes e matriz de conflitos**
+ * Terça (23/4):<br />**L12 – Interfaces concorrentes e matriz de conflitos** \[ [PDF](https://drive.google.com/open?id=1xnpty5YLcSuzhFVfKQlqGl_p1SayKP6M) \] \[ [vídeo](https://youtu.be/rpHxO_S-2ow) \]
  * Quinta (25/4):<br />**L13 – Processadores monociclo**<br />**P3 – Provinha**
  * Sexta (26/4):<br />**Lab5 – Lógica sequencial**
 
