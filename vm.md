@@ -37,6 +37,8 @@ sudo openvpn licencas.ovpn
 
 Digite seu **Número UFSCar** e depois sua **senha** quando solicitado.
 
+Mantenha o terminal aberto enquanto estiver usando a VPN.
+
 ## Testando
 
 Para verificar se está tudo funcionando com um projeto de teste, execute os seguintes comandos:
