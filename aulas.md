@@ -56,8 +56,8 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ## Semana 8
 
- * Terça (30/4):<br />**L14 – Processadores multiciclo**
- * Quinta (2/5):<br />**L15 – Caches 1**<br />
+ * Terça (30/4):<br />**L14 – Processadores multiciclo** \[ [PDF](https://drive.google.com/open?id=1az-kQ2icWAqPzVXYa-a0HliFJexZ7-q_) \] \[ [vídeo](https://youtu.be/jDfo5ZlYhCg) \]
+ * Quinta (2/5):<br />**L15 – Caches 1** \[ [PDF](https://drive.google.com/open?id=1R-Sjuj12bm7Fg2Sqk3BzVG-emMWXOQIi) \] \[ [vídeo](https://youtu.be/M7DxxD0x4bg) \]
  * Sexta (3/5):<br />**Lab6 – Processadores monociclo e multiciclo**
 
 ## Semana 9
