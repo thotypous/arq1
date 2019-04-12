@@ -57,19 +57,19 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ## Semana 8
 
  * Terça (30/4):<br />**L14 – Processadores multiciclo** \[ [PDF](https://drive.google.com/open?id=1az-kQ2icWAqPzVXYa-a0HliFJexZ7-q_) \] \[ [vídeo](https://youtu.be/jDfo5ZlYhCg) \]
- * Quinta (2/5):<br />**L15 – Caches 1** \[ [PDF](https://drive.google.com/open?id=1R-Sjuj12bm7Fg2Sqk3BzVG-emMWXOQIi) \] \[ [vídeo](https://youtu.be/M7DxxD0x4bg) \]
+ * Quinta (2/5):<br />**L15 – A hierarquia de memória** \[ [PDF](https://drive.google.com/open?id=1R-Sjuj12bm7Fg2Sqk3BzVG-emMWXOQIi) \] \[ [vídeo](https://youtu.be/M7DxxD0x4bg) \]
  * Sexta (3/5):<br />**Lab6 – Processadores monociclo e multiciclo**
 
 ## Semana 9
 
- * Terça (7/5):<br />**L16 – Caches 2**
- * Quinta (9/5):<br />**L17 – Pipeline em processadores**<br />**P4 – Provinha**
+ * Terça (7/5):<br />**L16 – Sistemas de memória** \[ [PDF](https://drive.google.com/open?id=1FoAznUS1_7DBeJISJwCL7ixl9A_8dLto) \] \[ [vídeo](https://youtu.be/ALASPAqlqfE) \]
+ * Quinta (9/5):<br />**L17 – SO** \[ [PDF](https://drive.google.com/open?id=1KW59cYaNwN6jzfhDtr1N7IREDvZJON-2) \] \[ [vídeo](https://youtu.be/Ya2FjNBR6j8) \]<br />**P4 – Provinha**
  * Sexta (10/5):<br />**Continuação**
 
 ## Semana 10
 
- * Terça (14/5):<br />**L18 – Implementando pipeline em processadores**
- * Quinta (16/5):<br />**L19 – SO**
+ * Terça (14/5):<br />**L18 – Pipeline em processadores**
+ * Quinta (16/5):<br />**L19 – Implementando pipeline em processadores**
  * Sexta (17/5):<br />**Lab7 – Caches**
 
 ## Semana 11
