@@ -68,25 +68,25 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ## Semana 10
 
- * Terça (14/5):<br />**L18 – Pipeline em processadores**
- * Quinta (16/5):<br />**L19 – Implementando pipeline em processadores**
+ * Terça (14/5):<br />**L18 – Memória virtual** \[ [PDF](https://drive.google.com/open?id=13tXtrC74o0QWqvq6d8q2m7mxi6yxT-tY) \] \[ [vídeo](https://youtu.be/wzzD_gs9MWY) \]
+ * Quinta (16/5):<br />**L19 – Introdução ao pipeline** \[ [PDF](https://drive.google.com/open?id=1iM0H-p6vvgt0liVnyQipJ5d1ehjMcLRK) \] \[ [vídeo](https://youtu.be/-gjGWVG4GOI) \]
  * Sexta (17/5):<br />**Lab7 – Caches**
 
 ## Semana 11
 
- * Terça (21/5):<br />**L20 – E/S e memória virtual**
- * Quinta (23/5):<br />**L21 – Memória virtual 2**<br />**P5 – Provinha**
+ * Terça (21/5):<br />**L20 – Pipeline em processadores** \[ [PDF](https://drive.google.com/open?id=1IxMixmIFNtKdpGwLt0CNOcdOgFguC33s) \] \[ [vídeo](https://youtu.be/xi7wi9UAfeU) \]
+ * Quinta (23/5):<br />**L21 – ?**<br />**P5 – Provinha**
  * Sexta (24/5):<br />**Lab8 – Processadores com pipeline**
 
 ## Semana 12
 
- * Terça (28/5):<br />**L22 – Sincronização**
- * Quinta (30/5):<br />**L23 – Predição de saltos**
+ * Terça (28/5):<br />**L22 – ?**
+ * Quinta (30/5):<br />**L23 – ?**
  * Sexta (31/5):<br />**Projeto final**
 
 ## Semana 13
 
- * Terça (4/6):<br />**L24 – Coerência de cache**
+ * Terça (4/6):<br />**L24 – ?**
  * Quinta (6/6):<br />**P6 – Provinha**
  * Sexta (7/6):<br />**Tira-dúvidas do projeto**
 
