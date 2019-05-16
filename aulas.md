@@ -76,7 +76,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
  * Terça (21/5):<br />**L20 – Pipeline em processadores** \[ [PDF](https://drive.google.com/open?id=1IxMixmIFNtKdpGwLt0CNOcdOgFguC33s) \] \[ [vídeo](https://youtu.be/xi7wi9UAfeU) \]
  * Quinta (23/5):<br />**L21 – Implementação de pipelines** \[ [PDF](https://drive.google.com/open?id=16-uUvUSWM2HQPyf53uDbmRy6mgrBgBEH) \] \[ [vídeo](https://youtu.be/3hGWxT5kSng) \]<br />**P5 – Provinha**
- * Sexta (24/5):<br />**Lab8 – Processadores com pipeline**
+ * Sexta (24/5):<br />**Lab8 – Sistemas operacionais**
 
 ## Semana 12
 
