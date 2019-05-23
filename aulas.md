@@ -80,13 +80,13 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ## Semana 12
 
- * Terça (28/5):<br />**L22 – Sincronização** \[ [PDF](https://drive.google.com/open?id=1My6QJZAu2C2iZblE5AE35sz6GDylCKPm) \] \[ [vídeo](https://youtu.be/rK20UmPWokU) \]
- * Quinta (30/5):<br />**L23 – Implementando pipeline em processadores** \[ [PDF](https://drive.google.com/open?id=1LJ-T2cxtbELjnRMCPe-kdBH3K8Qi8dmE) \] \[ [vídeo](https://youtu.be/JYnDwkPMTaI) \]
+ * Terça (28/5):<br />**L23 – Implementando pipeline em processadores** \[ [PDF](https://drive.google.com/open?id=1LJ-T2cxtbELjnRMCPe-kdBH3K8Qi8dmE) \] \[ [vídeo](https://youtu.be/JYnDwkPMTaI) \]
+ * Quinta (30/5):<br />**L22 – Sincronização** \[ [PDF](https://drive.google.com/open?id=1My6QJZAu2C2iZblE5AE35sz6GDylCKPm) \] \[ [vídeo](https://youtu.be/rK20UmPWokU) \]
  * Sexta (31/5):<br />**Projeto final**
 
 ## Semana 13
 
- * Terça (4/6):<br />**L24 – Coerência de cache**
+ * Terça (4/6):<br />**L25 – Coerência de cache** \[ [PDF](https://drive.google.com/open?id=1GYi7UJUpzDDlEfxu2Tvym7GHPxVbibz-) \] \[ [vídeo](https://youtu.be/wuW_3pvvm0Y) \]
  * Quinta (6/6):<br />**P6 – Provinha**
  * Sexta (7/6):<br />**Tira-dúvidas do projeto**
 
